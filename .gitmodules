@@ -1,0 +1,6 @@
+[submodule "PlaterFlow"]
+	path = PlaterFlow
+	url = https://github.com/platerflow/PlaterFlow
+[submodule "platerflow.rs"]
+	path = platerflow.rs
+	url = https://github.com/platerflow/platerflow.rs
